@@ -27,3 +27,6 @@ Problems that interest me or that I may need later and their solutions
     4) Print the result string to the "output1.txt" file<br>
     5) In the "output2.txt" file print each character of initial string and number of times it was repeated (in format "a:3"). These records must be separated with space and sorted by number of repetitions from greatest to lowest (if 2 characters have same number of repetitions - sort by character's code in ascending order).
 <hr>
+3. New Companies.txt(SQL code)<br>
+    Problem link - https://www.hackerrank.com/challenges/the-company/problem
+<hr>
